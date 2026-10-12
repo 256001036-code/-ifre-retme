@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\bin\Debug\net10.0-windows\Şifre Üretici.exe
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\bin\Debug\net10.0-windows\Şifre Üretici.deps.json
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\bin\Debug\net10.0-windows\Şifre Üretici.runtimeconfig.json
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\bin\Debug\net10.0-windows\Şifre Üretici.dll
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\bin\Debug\net10.0-windows\Şifre Üretici.pdb
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre_Üretici.Form1.resources
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.AssemblyInfo.cs
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.dll
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\refint\Şifre Üretici.dll
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.pdb
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.genruntimeconfig.cache
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\ref\Şifre Üretici.dll
+C:\Users\HP\source\repos\Şifre Üretici\Şifre Üretici\obj\Debug\net10.0-windows\Şifre Üretici.sourcelink.json
